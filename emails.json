@@ -1,0 +1,121 @@
+[
+  {
+    "id": "e001",
+    "from": "orders@amazon.in",
+    "subject": "Your order #402-118 has shipped",
+    "date": "2026-11-03",
+    "body": "Order total: Rs. 2,499.00 paid via UPI. Items: Logitech M331 mouse."
+  },
+  {
+    "id": "e002",
+    "from": "billing@netflix.com",
+    "subject": "Your membership has been renewed",
+    "date": "2026-11-05",
+    "body": "We charged Rs. 649 to your card ending 4417 for the Standard plan."
+  },
+  {
+    "id": "e003",
+    "from": "priya@company.com",
+    "subject": "Sprint review moved to Friday",
+    "date": "2026-11-06",
+    "body": "Please update the deck before Thursday EOD."
+  },
+  {
+    "id": "e004",
+    "from": "no-reply@amazon.in",
+    "subject": "Order Confirmation #402-118",
+    "date": "2026-11-03",
+    "body": "Thank you for your order. Total: Rs. 2,499.00. Payment: UPI. Item: Logitech M331 mouse."
+  },
+  {
+    "id": "e005",
+    "from": "invoices@vendor-firm.com",
+    "subject": "Invoice INV-2026-1192 for Q4 licensing",
+    "date": "2026-11-07",
+    "body": "Please find attached invoice INV-2026-1192 for Rs. 45,000 due 2026-11-30. This is for annual software licensing under the Q4 procurement budget."
+  },
+  {
+    "id": "e006",
+    "from": "news@medium.com",
+    "subject": "Your daily digest: 5 stories on AI",
+    "date": "2026-11-07",
+    "body": "Here are today's top picks. Read more on Medium."
+  },
+  {
+    "id": "e007",
+    "from": "orders@flipkart.com",
+    "subject": "Flipkart order confirmation",
+    "date": "2026-11-08",
+    "body": "Your order of Rs. 1,299.00 for a USB-C hub has been confirmed. Paid via Credit Card ending 8821."
+  },
+  {
+    "id": "e008",
+    "from": "offers@flipkart.com",
+    "subject": "Big Billion Days: 60% off electronics!",
+    "date": "2026-11-09",
+    "body": "Don't miss our biggest sale. Shop now!"
+  },
+  {
+    "id": "e009",
+    "from": "billing@spotify.com",
+    "subject": "Your Spotify Premium renewal",
+    "date": "2026-11-10",
+    "body": "We charged Rs. 119 to your card ending 2210 for the Premium Individual plan."
+  },
+  {
+    "id": "e010",
+    "from": "hr@company.com",
+    "subject": "Reminder: submit your timesheet",
+    "date": "2026-11-10",
+    "body": "Timesheets are due by Friday 5 PM."
+  },
+  {
+    "id": "e011",
+    "from": "orders@swiggy.in",
+    "subject": "Your Swiggy order is confirmed",
+    "date": "2026-11-11",
+    "body": "Order total Rs. 487.50 paid via UPI. Restaurant: Truffles, Indiranagar."
+  },
+  {
+    "id": "e012",
+    "from": "support@figma.com",
+    "subject": "Your Figma invoice",
+    "date": "2026-11-12",
+    "body": "Invoice for Professional plan: $15.00 charged to card ending 3344 on 2026-11-12."
+  },
+  {
+    "id": "e013",
+    "from": "alerts@bank.com",
+    "subject": "Transaction alert",
+    "date": "2026-11-12",
+    "body": "Rs. 2,499.00 debited from A/C XX4417 to AMAZON on 2026-11-03 via UPI."
+  },
+  {
+    "id": "e014",
+    "from": "events@company.com",
+    "subject": "Diwali celebration photos",
+    "date": "2026-11-13",
+    "body": "Sharing photos from last week's office Diwali event."
+  },
+  {
+    "id": "e015",
+    "from": "billing@adobe.com",
+    "subject": "Adobe Creative Cloud — payment received",
+    "date": "2026-11-14",
+    "body": "We've received your payment of Rs. 1,675.00 for Creative Cloud Photography plan."
+  },
+  {
+    "id": "e016",
+    "from": "no-reply@zomato.com",
+    "subject": "Your Zomato order was delivered",
+    "date": "2026-11-15",
+    "body": "Order total: Rs. 312.00 paid via Wallet. Restaurant: Meghana Foods."
+  },
+  {
+    "id": "e017",
+    "from": "receipts@uber.com",
+    "subject": "Your Uber trip receipt",
+    "date": "2026-11-16",
+    "body": "Trip fare: Rs. 218.00 paid via UPI. Driver: Ramesh."
+  }
+]
